@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Jhay</h1>
-<h3 align="center">Founder & Executive Director of AlgoriX | Executive Board Member @ SLINT Tech</h3>
+<h3 align="center">Founder & Executive Director of <a href="https://algorix.netlify.app/">AlgoriX</a> | Executive Board Member @ SLINT Tech</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C3FF&center=true&vCenter=true&width=500&lines=Computer+Scientist;Software+Developer;Backend+Engineer;Laravel+Lover;Rustacean+in+Training;Startup-driven;Builder+of+Cool+Things" />
