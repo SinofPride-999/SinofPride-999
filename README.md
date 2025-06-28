@@ -156,22 +156,6 @@ const currentProjects = {
 
 ## `cat ~/.config/personality.conf`
 
-```ini
-[DEVELOPER_TRAITS]
-Laravel_Obsession=true
-Rust_Learning_Mode=enabled
-AI_Integration_Specialist=active
-Startup_Mindset=always_on
-Japan_Dreams=MEXT_Scholarship_Target
-Game_Dev_Side_Quest=creative_escape
-
-[CURRENT_BUFFS]
-Coffee_Level=Maximum
-Motivation=Overclocked
-Code_Quality=Premium
-Bug_Hunting=Expert_Mode
-```
-
 ---
 
 ## `ps aux | grep passion`
@@ -180,9 +164,8 @@ Bug_Hunting=Expert_Mode
 
 
 **🎯 Mission Statement:**
-> *"Programming is poetry and I write Laravel.  
-> If I can, then you can too. Coding saves lives"*
->
+> *"Programming is poetry and I write Laravel."*
+> 
 > — **Jhay**, *Digital Architect*
 
 </div>
@@ -222,5 +205,5 @@ Bug_Hunting=Expert_Mode
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&reversal=true&textBg=false&fontAlign=center&fontAlignY=center&fontSize=16&fontColor=ffffff&animation=twinkling&text=🚀%20Keep%20Building%20🚀" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&reversal=true&textBg=false&fontAlign=center&fontAlignY=center&fontSize=16&fontColor=ffffff&animation=twinkling&text=🚀%20Coding%20Saves%20Lives%20🚀" />
 </div>
