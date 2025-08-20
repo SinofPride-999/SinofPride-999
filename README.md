@@ -52,45 +52,33 @@ Superpower: "Turning caffeine into code"
 
 ```javascript
 const currentProjects = {
-  DevBlog: {
-    tech: ["Laravel"],
-    status: "🗳 Architecting",
-    description: "Social Media App for Computer Scientist"
+  DevSocial: {
+    tech: ["Salvo", "Rust", "ReactJS", "TypeScript", "TailWindCSS", "MySQL"],
+    status: "⚡ In Production",
+    description: "Social Media App for Computer Scientist & Tech Enthusiats"
   }
   
-  iCampus: {
-    tech: ["Laravel", "AI"],
-    status: "🔥 In Production",
+  eCollege: {
+    tech: ["AdonisJS", "TypeScript", "ReactJS", "TailWindCSS", "PostgreSQL"],
+    status: "⚡ In Production",
     description: "Student portal with AI chatbot (Algo) integration"
   },
   
   tutorX: {
-    tech: ["Go", "Gin", "MVP"],
-    status: "⚡ Rebuilding",
+    tech: ["Rocket", "Rust", "MySQL", "ReactJS", "TailWindCSS"],
+    status: "⚡ In Production",
     description: "Connecting students with tutors globally"
   },
   
   Kora: {
-    tech: ["Go", "Gin"],
-    status: "🛠 Development",
+    tech: ["Laravel", "ReactJS", "TailWindCSS", "PostgreSQL"],
+    status: "⚡ In Production",
     description: "Online dating app"
   },
-  
-  Algo: {
-    tech: ["Django", "GPT", "AI"],
-    status: "🧠 Learning",
-    description: "AI assistant for educational institutions"
-  },
-  
-  eVoting: {
-    tech: ["Laravel"],
-    status: "🗳 Architecting",
-    description: "Digital voting revolution"
-  }
 
   LectureLog: {
-    tech: ["Laravel"],
-    status: "🗳 Developing",
+    tech: ["Rocket", "Rust", "ReactJS", "TailWindCSS", "TypeScript", "MySQL"],
+    status: "⚡ In Production",
     description: "Mordern digital attendance tracking"
   }
 
