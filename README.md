@@ -8,25 +8,13 @@
 ╚█████╔╝██║  ██║██║  ██║   ██║       ██████╔╝███████╗ ╚████╔╝ 
  ╚════╝ ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝       ╚═════╝ ╚══════╝  ╚═══╝  
 ```
-
-<div align="center">
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=3000&pause=1000&color=00FFFF&background=000000&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=100&lines=%3E+sudo+apt+install+jhay-dev;%3E+Initializing+systems...;%3E+Loading+awesome+developer...)
-
-</div>
-
 ---
 
 ## `whoami`
 
-```bash
-┌─[jhay@algorix]─[~/dev]
-└──╼ $ cat /etc/jhay-release
-```
-
 ```yaml
 Name: "Jhay"
-Role: "Full-Stack Developer & Computer Scientist"
+Role: "Full-Stack Developer, Systems Programmer & Computer Scientist"
 Location: "Ghana 🇬🇭"
 Status: "Compiling dreams into reality..."
 Current_Mission: "Building the future, one commit at a time"
