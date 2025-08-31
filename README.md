@@ -52,11 +52,15 @@ const currentProjects = {
     description: "Student portal with AI chatbot (Algo) integration"
   },
   
-  tutorX: {
-    tech: ["Rocket", "Rust", "MySQL", "ReactJS", "TailWindCSS"],
-    status: "⚡ In Production",
-    description: "Connecting students with tutors globally"
-  },
+  drAnaClinic: {
+    tech: ["Flask", "Python", "Sqlite", "ReactJS", "TypeScript", "TailWindCSS"],
+    status: "⚡ Built",
+    description: [
+          "A website for a Dental Clinic that advertises the clinic,
+          allows people to book appointment and send messages directly
+          to the admin's dashboard. Admin can read messages, manage appointments and many more"
+          ]
+     },
   
   Kora: {
     tech: ["Laravel", "ReactJS", "TailWindCSS", "PostgreSQL"],
@@ -114,26 +118,6 @@ const currentProjects = {
 ![Terminal](https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=black)
 
 </div>
-
----
-
-## `git log --stat --graph`
-
-<div align="center">
-
-### **System Performance Metrics**
-
-<img src="https://github-readme-stats.vercel.app/api?username=jhay-dev&show_icons=true&theme=dark&bg_color=0d1117&title_color=00ffff&icon_color=ff00ff&text_color=ffffff&border_color=30363d&hide_border=true" alt="GitHub Stats" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jhay-dev&theme=dark&background=0d1117&stroke=30363d&ring=00ffff&fire=ff00ff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00ffff&sideLabels=ffffff&dates=888888&hide_border=true" alt="GitHub Streak" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhay-dev&layout=compact&theme=dark&bg_color=0d1117&title_color=00ffff&text_color=ffffff&border_color=30363d&hide_border=true" alt="Top Languages" />
-
-</div>
-
----
-
-## `cat ~/.config/personality.conf`
 
 ---
 
