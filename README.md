@@ -53,7 +53,7 @@ const currentProjects = {
   },
   
   drAnaClinic: {
-    tech: ["Flask", "Python", "Sqlite", "ReactJS", "TypeScript", "TailWindCSS"],
+    tech: ["AdonisJS", "TypeScript", "PostgreSql", "ReactJS", "TypeScript", "TailWindCSS"],
     status: "⚡ Built",
     description: [
           "A website for a Dental Clinic that advertises the clinic,
