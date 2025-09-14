@@ -40,7 +40,7 @@ Superpower: "Turning caffeine into code"
 
 ```javascript
 const currentProjects = {
-  DevSocial: {
+  devSocial: {
     tech: ["Salvo", "Rust", "ReactJS", "TypeScript", "TailWindCSS", "MySQL"],
     status: "⚡ In Production",
     description: "Social Media App for Computer Scientist & Tech Enthusiats"
@@ -62,13 +62,13 @@ const currentProjects = {
           ]
      },
   
-  Kora: {
+  kora: {
     tech: ["Laravel", "ReactJS", "TailWindCSS", "PostgreSQL"],
     status: "⚡ In Production",
     description: "Online dating app"
   },
 
-  LectureLog: {
+  lectureLog: {
     tech: ["Rocket", "Rust", "ReactJS", "TailWindCSS", "TypeScript", "MySQL"],
     status: "⚡ In Production",
     description: "Mordern digital attendance tracking"
