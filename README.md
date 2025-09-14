@@ -134,38 +134,6 @@ const currentProjects = {
 
 ---
 
-## `curl -X POST /contact`
-
-<div align="center">
-
-
-### **Status:** `Online & Ready to Build 🚀`
-
-[![Profile Views](https://komarev.com/ghpvc/?username=jhay-dev&color=00ffff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/jhay-dev)
-[![GitHub Followers](https://img.shields.io/github/followers/jhay-dev?color=ff00ff&style=for-the-badge&label=FOLLOWERS&logo=github)](https://github.com/jhay-dev)
-[![GitHub Stars](https://img.shields.io/github/stars/jhay-dev?color=ffff00&style=for-the-badge&label=TOTAL+STARS&logo=github)](https://github.com/jhay-dev)
-
-</div>
-
----
-
-<div align="center">
-
-### `> shutdown -r now "Thanks for visiting! 🔥"`
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│  System will restart with more awesome projects soon...     │
-│  Star ⭐ my repos if you found something interesting!       │
-└─────────────────────────────────────────────────────────────┘
-```
-
-**🚨 Fun Fact:** *This README was crafted with 100% organic electrons and a dangerous amount of caffeine.*
-
-</div>
-
----
-
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&reversal=true&textBg=false&fontAlign=center&fontAlignY=center&fontSize=16&fontColor=ffffff&animation=twinkling&text=🚀%20Coding%20Saves%20Lives%20🚀" />
 </div>
