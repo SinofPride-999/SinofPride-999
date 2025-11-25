@@ -21,15 +21,7 @@ Current_Mission: "Building the future, one commit at a time"
 Superpower: "Turning caffeine into code"
 ```
 
-<div align="center">
 
-### `> system.load_personality()`
-
-[![](https://img.shields.io/badge/Founder-AlgoriX-00FFFF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJaIiBmaWxsPSIjMDBGRkZGIi8+Cjwvc3ZnPgo=)](https://algorix.netlify.app/)
-[![](https://img.shields.io/badge/Executive_Board-SLINT_Tech-FF00FF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJaIiBmaWxsPSIjRkYwMEZGIi8+Cjwvc3ZnPgo=)](#)
-[![](https://img.shields.io/badge/Status-Caffeinated-FFFF00?style=for-the-badge&logo=coffee&logoColor=black)](#)
-
-</div>
 
 ---
 
