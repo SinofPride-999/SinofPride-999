@@ -50,6 +50,16 @@
 
 ---
 
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://metrics.lecoq.io/SinofPride-999?template=classic&languages=1&streak=1&activity=1&theme=tokyonight" />
+</p>
+
+---
+
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&reversal=true&textBg=false&fontAlign=center&fontAlignY=center&fontSize=16&fontColor=ffffff&animation=twinkling&text=%20Coding%20Saves%20Lives%20" />
 </div>
