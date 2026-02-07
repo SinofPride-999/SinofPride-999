@@ -1,3 +1,5 @@
+<div align="left"> <img src="https://camo.githubusercontent.com/ecbaa0d37d9846edf0b2c86e6dda617255765ca6c5926ef372672ded4ca858df/68747470733a2f2f692e696d6775722e636f6d2f75685a644839432e676966" alt="Cool GIF" width="400"/> </div>
+
 # `jhay --version`
 
 ```ascii
@@ -8,6 +10,7 @@
 ╚█████╔╝██║  ██║██║  ██║   ██║       ██████╔╝███████╗ ╚████╔╝ 
  ╚════╝ ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝       ╚═════╝ ╚══════╝  ╚═══╝  
 ```
+
 ---
 
 ## `whoami`
@@ -15,34 +18,14 @@
 ```yaml
 {
      Name: "Jhay"
-     Role: "Full Stack Software Engineer"
+     Role: "Software Engineer"
      Location: "Ghana 🇬🇭"
      Superpower: "I can turn any idea into reality, with the right amount of Coffee lol"
+     stack: [
+          "Rust", "PHP", "TypeScript", "Java", "Python"
+     ]
 }
 ```
-
----
-
-## `skills`
-
-<div align="center">
-
-### **Core Systems**
-![Rust](https://img.shields.io/badge/Rust-CE422B?style=for-the-badge&logo=rust&logoColor=white&labelColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=black)
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&labelColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=black)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=black)
-
-
-### **Development Environment**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&labelColor=black)
-![Terminal](https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=black)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=white)
-
-</div>
 
 ---
 
