@@ -7,7 +7,7 @@ Software Engineer from Ghana 🇬🇭 <br/>
 I build scalable systems, developer tools, and real-world products.<br/><br/>
 
 Creator of the <b>Luxid</b> Web Framework<br/>
-Primarily writing Rust, Go and C++<br/>
+Primarily writing Rust, Go, C++ and PHP<br/>
 </p>
 
 </td>
@@ -44,7 +44,7 @@ Primarily writing Rust, Go and C++<br/>
      Location: "Ghana 🇬🇭"
      Superpower: "I can turn any idea into reality, with the right amount of Coffee lol"
      stack: [
-          "Rust", "PHP", "TypeScript", "Java", "Python"
+          "Rust", "PHP", "TypeScript", "CPP", "GO"
      ]
 }
 ```
