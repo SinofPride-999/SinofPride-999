@@ -1,18 +1,7 @@
 <table>
 <tr>
-<td width="50%">
 
-<p>
-Software Engineer from Ghana 🇬🇭 <br/>
-I build scalable systems, developer tools, and real-world products.<br/><br/>
-
-Creator of the <b>Luxid</b> Web Framework<br/>
-Primarily writing Rust, Go, C++ and PHP<br/>
-</p>
-
-</td>
-
-<td width="0%" align="right">
+<td width="0%" align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400"/>
 
