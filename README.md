@@ -11,12 +11,12 @@
   ]
 
   "frameworks": [
-    "Rust" => ["Loco", "Salvo", "Axum", "Leptos"] 
-    "Go" => ["Fiber"].
-    "Java" => ["SpringBoot"],
-    "PHP" => ["Luxid", "Laravel"], 
-    "TypeScript" => ["React", "AdonisJS"],
-    "C++" => ["Drogon"], 
+    "Rust": "Loco", "Salvo", "Axum", "Leptos",
+    "Go": "Fiber",
+    "Java": "SpringBoot",
+    "PHP": "Luxid", "Laravel", 
+    "TypeScript": "React", "AdonisJS",
+    "C++": "Drogon", 
   ]
 
   "Tools": [
