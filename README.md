@@ -5,14 +5,7 @@
 
 ```php
 stack = [
-    "lang" => [
-        "Rust",
-        "Go",
-        "Java",
-        "PHP",
-        "TypeScript",
-        "C++"
-    ],
+    "lang" => ["Rust", "Go", "Java", "PHP", "TypeScript", "C++"],
 
     "frameworks" => [
         "Rust" => ["Loco", "Salvo", "Axum", "Leptos"],
@@ -23,16 +16,8 @@ stack = [
         "C++" => ["Drogon"]
     ],
 
-    "tools" => [
-        "NeoVim",
-        "Git",
-        "Curl",
-        "Bash"
-    ],
+    "tools" => ["NeoVim", "Git", "Curl", "Bash"],
 
-    "os" => [
-        "Linux (Currently using Arch)",
-        "macOS"
-    ]
+    "os" => ["Arch", "macOS"]
 ];
 ```
