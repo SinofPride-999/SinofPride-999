@@ -3,32 +3,36 @@
 
 ---
 
-```json
-{
-  "lang": [
-    "Rust", "Go", "Java",
-    "PHP", "TypeScript", "C++"
-  ]
+```php
+stack = [
+    "lang" => [
+        "Rust",
+        "Go",
+        "Java",
+        "PHP",
+        "TypeScript",
+        "C++"
+    ],
 
-  "frameworks": [
-    "Rust": "Loco", "Salvo", "Axum", "Leptos",
-    "Go": "Fiber",
-    "Java": "SpringBoot",
-    "PHP": "Luxid", "Laravel", 
-    "TypeScript": "React", "AdonisJS",
-    "C++": "Drogon", 
-  ]
+    "frameworks" => [
+        "Rust" => ["Loco", "Salvo", "Axum", "Leptos"],
+        "Go" => ["Fiber"],
+        "Java" => ["SpringBoot"],
+        "PHP" => ["Luxid", "Laravel"],
+        "TypeScript" => ["React", "AdonisJS"],
+        "C++" => ["Drogon"]
+    ],
 
-  "Tools": [
-    "NeoVim",
-    "Git",
-    "Curl",
-    "Bash"
-  ]
+    "tools" => [
+        "NeoVim",
+        "Git",
+        "Curl",
+        "Bash"
+    ],
 
-  "OS": [
-    "Linux (Currently using Arch)",
-    "macOS"
-  ]
-}
+    "os" => [
+        "Linux (Currently using Arch)",
+        "macOS"
+    ]
+];
 ```
